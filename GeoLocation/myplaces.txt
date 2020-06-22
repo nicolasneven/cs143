@@ -1,0 +1,25 @@
+Alladin Gyro-Cery & Deli
+4143 University Way
+restaurant, late-night comfort food
+47.6580651
+-122.3133947
+Cafe Solstice
+4116 University Way
+hip cafe, quick bite
+47.6574069
+-122.3129043
+Washington Park Arboretum Botanic Gardens
+2300 Arboretum Drive
+park, japanese garden
+47.6398399
+-122.2944347
+Sakuma Viewpoint
+3740 Brooklyn Ave
+scenic area, lake view
+47.65167
+-122.314887
+Gas Works Park
+2101 Northlake Way
+park, picnic facilities, dramatic city views
+47.6462297
+-122.3336997
